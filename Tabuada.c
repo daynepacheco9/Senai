@@ -14,6 +14,7 @@ int tabuada( int numero, int multiplicador){
 }
 int main(){
     int numero , multipplicador =1 ;
-    printf("Digite um numero: \n"); scanf("%d", &numero);
+    printf("Digite um numero: \n");
+    scanf("%d", &numero);
     tabuada(numero, multipplicador);
 }
