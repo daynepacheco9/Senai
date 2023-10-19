@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Dayne/OneDrive/Imagens/Documentos/GitHub/Senai",
-      "program": "c:/Users/Dayne/OneDrive/Imagens/Documentos/GitHub/Senai/build/Debug/outDebug",
+      "cwd": "c:/Users/Dayne/OneDrive/Área de Trabalho/Senai",
+      "program": "c:/Users/Dayne/OneDrive/Área de Trabalho/Senai/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
